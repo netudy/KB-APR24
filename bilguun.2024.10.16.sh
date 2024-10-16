@@ -8,7 +8,7 @@ exit 1
 
 # - Open Windows PowerShell as admin
 wsl --install -d ubuntu
-# # Installing: Ubuntu
+# Installing: Ubuntu
 # Ubuntu has been installed.
 # Launching Ubuntu...
 # Installing, this may take a few minutes...
